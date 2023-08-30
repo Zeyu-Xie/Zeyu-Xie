@@ -1,3 +1,5 @@
+<img alt="light" src="./light_medium.png" style="width: 50%; padding: 50%;"></img>
+
 ### Hi there 👋
 
 <!--
