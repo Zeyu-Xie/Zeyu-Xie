@@ -1,5 +1,3 @@
-<img src = "./cat.gif">
-
 ACAN XIE
 
 Bldg. 10, Tsinghua Univ., No. 30 Shuangqing Rd., Haidian District, Beijing, Beijing, China, 100084
@@ -101,3 +99,5 @@ E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760
 *Propaganda Department Member |* **Chinese Students and Scholars Association at KTH Royal Institute of Technology**, **(CSSASE),** Stockholm, Sweden
 
 *Period: 09/2022-01/2023*
+
+<img src = "./cat.gif">
