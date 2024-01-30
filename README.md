@@ -19,6 +19,8 @@ E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760
 - Program: Electrical Engineering and Computer Science
 - Core Courses: *Measures and Integrals, Geometry and Symmetry*
 
+<img src = "./cat.gif" align = "right">
+
 **SKILLS** 💼
 
 - Programming Language: C/C++, JavaScript, Python, NodeJS, Rust, Shell
@@ -99,5 +101,3 @@ E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760
 *Propaganda Department Member |* **Chinese Students and Scholars Association at KTH Royal Institute of Technology**, **(CSSASE),** Stockholm, Sweden
 
 *Period: 09/2022-01/2023*
-
-<img src = "./cat.gif">
