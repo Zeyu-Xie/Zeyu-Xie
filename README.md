@@ -1,3 +1,5 @@
+<img src = "./cat.gif">
+
 ACAN XIE
 
 Bldg. 10, Tsinghua Univ., No. 30 Shuangqing Rd., Haidian District, Beijing, Beijing, China, 100084
