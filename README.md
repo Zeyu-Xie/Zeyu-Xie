@@ -2,7 +2,9 @@ ACAN XIE
 
 Bldg. 10, Tsinghua Univ., No. 30 Shuangqing Rd., Haidian District, Beijing, Beijing, China, 100084
 
-E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760225
+E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel. ℡: +86 17795760225
+
+[Facebook](https://www.facebook.com/profile.php?id=100074450301226) | [Twitter 𝕏](https://twitter.com/AcanXie) | [Instagram](https://www.instagram.com/acanxie/)
 
 <hr>
 
