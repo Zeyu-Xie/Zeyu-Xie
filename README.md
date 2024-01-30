@@ -6,7 +6,7 @@ E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760
 
 <hr>
 
-**EDUCATION BACKGROUND**
+**EDUCATION BACKGROUND** 🎓
 
 *Bachelor’s Degree of Natural Science* | **Tsinghua University,** Beijing, China        09/2020-06/2024
 
@@ -19,7 +19,7 @@ E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760
 - Program: Electrical Engineering and Computer Science
 - Core Courses: *Measures and Integrals, Geometry and Symmetry*
 
-**SKILLS**
+**SKILLS** 💼
 
 - Programming Language: C/C++, JavaScript, Python, NodeJS, Rust, Shell
 - Database: MongoDB, MySql
@@ -27,7 +27,7 @@ E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760
 - Platforms: GitHub, Stackoverflow, CSDN
 - Comprehensive Skills: leadership, organization, cooperation, logical thinking, problem-solving, independent learning and research
 
-**RESEARCH EXPERIENCE**
+**RESEARCH EXPERIENCE** 🔬
 
 *Front-end Developer and Assistant Back-end Developer |* **A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples, Human-Computer Interaction Laboratory, Department of Computer Science and Technology, Tsinghua University**
 
@@ -84,7 +84,7 @@ E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760
 - Deployed a blog using a self-built template, Jekyll, and GitHub Pages
 - Enabled Disqus comments and Google Analytics monitoring support
 
-**STUDENT INVOLVEMENT**
+**STUDENT INVOLVEMENT** 🔔
 
 *Director of Publicity and Design Department & Vice President |* **Student Communication Association of Sanqin Culture of Tsinghua University**                      
 
