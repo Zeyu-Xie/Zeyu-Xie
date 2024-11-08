@@ -1,6 +1,6 @@
 ACAN XIE
 
-Bldg. 10, Tsinghua Univ., No. 30 Shuangqing Rd., Haidian District, Beijing, Beijing, China, 100084
+Kungshamra 25A 1001, Solna, Stockholm, Sweden
 
 E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel. ℡: +46 0703181056
 
