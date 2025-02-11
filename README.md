@@ -258,5 +258,10 @@ Let’s connect—I’d love to share more about what I do and learn about you!
 ### Silver Medalist in the 35th Chinese Mathematical Olympiad (CMO)
 
 - **Issued by**: Chinese Mathematical Society
-- **Time**: Nov, 2019
+- **Time**: Nov. 2019
 - **Description**: The Chinese Mathematical Olympiad is an annual invitational mathematical competition for high school students in China organized by the Chinese Mathematical Society.
+
+### Tsinghua University Math Talents Program Scholarship
+
+- **Issued by**: Tsinghua University
+- **Time**: 2021
