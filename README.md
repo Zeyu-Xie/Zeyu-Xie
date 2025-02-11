@@ -180,7 +180,7 @@ Let’s connect—I’d love to share more about what I do and learn about you!
 - **Education**: Tsinghua University
 - **Courses**: Introduction of Scientific Computing with Matlab
 
-### RR
+### R
 
 - **Education**: Stockholm University
 - **Courses**: Statistics and Data Analysis for Computer and Systems Sciences
