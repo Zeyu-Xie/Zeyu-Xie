@@ -1,8 +1,6 @@
-[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Zeyu-Xie) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zeyu-xie/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:xie.zeyu20@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Zeyu-Xie) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zeyu-xie/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:xie.zeyu20@gmail.com) [![Portfolio Badge](http://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logoColor=white)](https://Zeyu-Xie.github.io)
 
-
-
-![GitHub followers](https://img.shields.io/github/followers/Zeyu-Xie?style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Zeyu-Xie?style=for-the-badge)](https://github.com/Zeyu-Xie?tab=followers)
 
 # Zeyu Xie
 
